@@ -1,5 +1,6 @@
 # CLICK
 
+학습목적으로만 사용합니다.
 
 #### 환경설정
 
@@ -56,8 +57,7 @@ pip install 모듈명
 
   
  4) 네 번째: enter(좌석 선택)
-  -> 자동 좌석 클릭
-  
+  -> 자동 좌석 클릭, 빈 곳의 색상을 확인해서 자동 클릭
   
   ![image](https://user-images.githubusercontent.com/20199818/195030945-27dc5b44-aa1a-4dca-be0a-c0665f03cb99.png)
   
