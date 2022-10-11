@@ -6,8 +6,8 @@
 1. 설치 모듈 설치
  - Listener
  - pillow
- - numpy
- - 
+ - pyautogui
+ - keyboard
  
 ```
 pip install 모듈명
