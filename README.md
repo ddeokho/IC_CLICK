@@ -48,7 +48,7 @@ pip install 모듈명
  
  2) 두 번째: enter
  3) 세 번쨰: enter
-  -> 보안문자입력 이동 + 완료 클릭
+  -> [보안문자입력] 이동 + [입력완료] 클릭
 ![image](https://user-images.githubusercontent.com/20199818/195026774-84014f07-2448-4ea9-b4ee-82d79e2d0422.png)
   
   
@@ -66,7 +66,7 @@ pip install 모듈명
   
   
   
- 6) 다섯 번째: enter
+ 6) 여섯 번째: enter
   -> 좌석선택완료
   
  
