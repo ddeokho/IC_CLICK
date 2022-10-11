@@ -5,6 +5,8 @@
 
 1. 설치 모듈 설치
  - Listener
+ - pillow
+ - numpy
  - 
  
 ```
@@ -48,7 +50,7 @@ pip install 모듈명
   
 
  3) 세 번째: enter
-  -> 좌석 카테고리 이동
+  -> 구역 선택 이동
 ![image](https://user-images.githubusercontent.com/20199818/195031267-b738d118-e25c-4394-a1ea-968babe864ce.png)
 
 
