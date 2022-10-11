@@ -54,7 +54,7 @@ pip install 모듈명
 
   
  4) 네 번째: enter(좌석 선택)
-  -> 마우스만 가져다 대면 색상에 맞추어 클릭(물론 마우스 클릭도 가능)
+  -> 자동 좌석 클릭
   ![image](https://user-images.githubusercontent.com/20199818/195030945-27dc5b44-aa1a-4dca-be0a-c0665f03cb99.png)
   
   
