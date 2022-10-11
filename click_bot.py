@@ -35,7 +35,7 @@ def start() :
 		current_time = now.strftime("%H:%M:%S")
 		print(current_time)
 
-		if now.second == start_time or now.second == 30 :
+		if now.second == start_time :
 
 			print("새로고침")
 			pyautogui.moveTo(click_xy[0],click_xy[1])
