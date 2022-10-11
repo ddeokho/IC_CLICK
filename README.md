@@ -25,7 +25,7 @@ pip install 모듈명
 (base)PS C:\user\경로>python bot.py
 ```
 
-4. click.py 수행
+4. click.py 수행: 좌표를 업데이트하기 위해서
 
 
 
