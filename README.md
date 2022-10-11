@@ -47,25 +47,26 @@ pip install 모듈명
 
  
  2) 두 번째: enter
-  -> 보안문자입력 이동
+ 3) 세 번쨰: enter
+  -> 보안문자입력 이동 + 완료 클릭
 ![image](https://user-images.githubusercontent.com/20199818/195026774-84014f07-2448-4ea9-b4ee-82d79e2d0422.png)
   
   
 
- 3) 세 번째: enter
+ 4) 네 번째: enter
   -> 구역 선택 이동
 ![image](https://user-images.githubusercontent.com/20199818/195031267-b738d118-e25c-4394-a1ea-968babe864ce.png)
 
 
   
- 4) 네 번째: enter(좌석 선택)
+ 5) 다섯 번째: enter(좌석 선택)
   -> 자동 좌석 클릭, 빈 곳의 색상을 확인해서 자동 클릭
   
   ![image](https://user-images.githubusercontent.com/20199818/195030945-27dc5b44-aa1a-4dca-be0a-c0665f03cb99.png)
   
   
   
- 5) 다섯 번째: enter
+ 6) 다섯 번째: enter
   -> 좌석선택완료
   
  
