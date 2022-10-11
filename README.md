@@ -63,7 +63,6 @@ pip install 모듈명
   
  5) 다섯 번째: enter
   -> 좌석선택완료
-  
   ![image](https://user-images.githubusercontent.com/20199818/195030343-91f3768e-f0f5-4fae-b57d-2952df23af32.png)
 
 
