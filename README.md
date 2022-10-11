@@ -51,16 +51,19 @@ pip install 모듈명
 
  3) 세 번째: enter
   -> 좌석 카테고리 이동
-  ![image](https://user-images.githubusercontent.com/20199818/195027970-4efb448c-d9e0-4ef6-a7ad-0c8bf53611ec.png)
+![image](https://user-images.githubusercontent.com/20199818/195031267-b738d118-e25c-4394-a1ea-968babe864ce.png)
 
-  
+
   
  4) 네 번째: enter(좌석 선택)
   -> 마우스만 가져다 대면 색상에 맞추어 클릭(물론 마우스 클릭도 가능)
   ![image](https://user-images.githubusercontent.com/20199818/195030945-27dc5b44-aa1a-4dca-be0a-c0665f03cb99.png)
   
+  
+  
  5) 다섯 번째: enter
   -> 좌석선택완료
+  
   ![image](https://user-images.githubusercontent.com/20199818/195030343-91f3768e-f0f5-4fae-b57d-2952df23af32.png)
 
 
