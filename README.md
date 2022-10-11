@@ -34,10 +34,8 @@ pip install 모듈명
  
  
  1) 첫 번째: enter
-  -> 방지 팝업창 닫기 이동+클릭
+  -> 방지 팝업창 닫기 이동/클릭 + 버튼 쪽 이동
 ![image](https://user-images.githubusercontent.com/20199818/195015985-f9dbe744-a663-45f4-b0ef-3c122696bc79.png)
-
-  -> 버튼 쪽 이동
 ![image](https://user-images.githubusercontent.com/20199818/195025701-c39b9188-0851-4088-b1c5-b560c5cc8e81.png)
 
 
