@@ -34,9 +34,10 @@ pip install 모듈명
  
  1) 첫 번째: enter(새로고침 완료 후)
   -> 방지 팝업창 닫기 이동+클릭
-  -> 버튼 쪽 이동
 ![image](https://user-images.githubusercontent.com/20199818/195015985-f9dbe744-a663-45f4-b0ef-3c122696bc79.png)
 
+  -> 버튼 쪽 이동
+![image](https://user-images.githubusercontent.com/20199818/195025310-2316ee07-cd0c-4f0b-b2c0-a2ccb52bb21b.png)
 
 
  2) 두 번째: enter(예약버튼 클릭 후)
