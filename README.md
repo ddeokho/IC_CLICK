@@ -32,24 +32,35 @@ pip install 모듈명
 로그인 후 화면 예약 접속, python bot.py 실행
 -> 59초에 새로고침 자동 클릭
  
- 1) 첫 번째: enter(새로고침 완료 후)
+ 
+ 1) 첫 번째: enter
   -> 방지 팝업창 닫기 이동+클릭
 ![image](https://user-images.githubusercontent.com/20199818/195015985-f9dbe744-a663-45f4-b0ef-3c122696bc79.png)
 
   -> 버튼 쪽 이동
-![image](https://user-images.githubusercontent.com/20199818/195025310-2316ee07-cd0c-4f0b-b2c0-a2ccb52bb21b.png)
+![image](https://user-images.githubusercontent.com/20199818/195025701-c39b9188-0851-4088-b1c5-b560c5cc8e81.png)
 
 
- 2) 두 번째: enter(예약버튼 클릭 후)
+
+ 
+ 2) 두 번째: enter
   -> 보안문자입력 이동
+![image](https://user-images.githubusercontent.com/20199818/195026774-84014f07-2448-4ea9-b4ee-82d79e2d0422.png)
   
   
 
- 3) 세 번째: enter(보안문자 완료 후)
+ 3) 세 번째: enter
   -> 좌석 카테고리 이동
+  ![image](https://user-images.githubusercontent.com/20199818/195027970-4efb448c-d9e0-4ef6-a7ad-0c8bf53611ec.png)
+
   
   
- 4) 네 번째: enter(좌석 선택 후)
-  -> 
+ 4) 네 번째: enter(좌석 선택)
+  -> 마우스만 가져다 대면 색상에 맞추어 클릭(물론 마우스 클릭도 가능)
+  ![image](https://user-images.githubusercontent.com/20199818/195030945-27dc5b44-aa1a-4dca-be0a-c0665f03cb99.png)
+  
+ 5) 다섯 번째: enter
+  -> 좌석선택완료
+  ![image](https://user-images.githubusercontent.com/20199818/195030343-91f3768e-f0f5-4fae-b57d-2952df23af32.png)
 
 
