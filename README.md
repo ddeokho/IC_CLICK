@@ -23,20 +23,14 @@ pip install 모듈명
   (움직일 좌표를 업데이트해야 함.)
 
 
-3. 파이썬 파일 실행
+3. 파이썬 파일 실행 방법
 ```
 (base)PS C:\user\경로>python click.py
 (base)PS C:\user\경로>python bot.py
 ```
 
 
-4. click.py 수행: 좌표를 업데이트하기 위해서
-
-
-5. bot.py 수행
-로그인 후 화면 예약 접속, python bot.py 실행
--> 59초에 새로고침 자동 클릭
- 
+4. bot.py 실행
  
  1) 첫 번째: enter
   -> 방지 팝업창 닫기 이동/클릭 + 버튼 쪽 이동
