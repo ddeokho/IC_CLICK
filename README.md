@@ -9,6 +9,8 @@
  - pillow
  - pyautogui
  - keyboard
+ - ImageGrab
+ - datetime
  
 ```
 pip install 모듈명
