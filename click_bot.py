@@ -58,7 +58,7 @@ def keyboard_click():
 	chk=0
 
 
-def click_table():
+def click_ticket():
 
 	#예측 클릭
 	pyautogui.moveTo(click_5[0],click_5[1])
@@ -70,8 +70,8 @@ def click_table():
 	#색상으로 구분해서 자동 클릭
 	#클릭 2자리 완료되면 예매 완료 화면 이동
 	chk_click=0
-	chk_table=0
-	while chk_table==0:
+	chk_ticket=0
+	while chk_ticket==0:
 		pos = pyautogui.position()
 		screen = ImageGrab.grab()
 		color = screen.getpixel(pos)
@@ -86,7 +86,7 @@ def click_table():
 				chk_click=chk_click+1
 
 		if chk_click==2:
-			chk_table=1
+			chk_ticket=1
 
 
 if __name__ :
@@ -130,7 +130,7 @@ if __name__ :
 	#좌석 클릭
 	print("5. 좌석이동")
 	keyboard_click()
-	click_table()
+	click_ticket()
 	
 
 	#좌석선택완료 버튼 클릭
