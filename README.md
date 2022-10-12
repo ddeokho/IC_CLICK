@@ -41,8 +41,9 @@ pip install 모듈명
 
  
  2) 두 번째: enter
+   -> [보안문자입력] 이동 + 클릭(바로 글 작성할 수 있도록 활성화)
  3) 세 번쨰: enter
-  -> [보안문자입력] 이동 + [입력완료] 클릭
+   -> 작성 완료 후 enter를 치면 [입력완료]가 클릭됨. 마우스로 클릭하는 것보다 빠름
 ![image](https://user-images.githubusercontent.com/20199818/195026774-84014f07-2448-4ea9-b4ee-82d79e2d0422.png)
   
   
