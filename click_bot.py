@@ -55,8 +55,7 @@ def keyboard_click():
 			print('  엔터 키 입력')
 			time.sleep(0.1)
 			chk=1
-	chk=0
-
+			
 
 def click_ticket():
 
