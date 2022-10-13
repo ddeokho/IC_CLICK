@@ -19,14 +19,14 @@ pip install 모듈명
 
 2. .py 설명
 - click.py: 좌표 얻기, 마우스로 클릭할 때마다 좌표를 가져옴
-- bot.py: enter를 클릭할 때 마다 화면 내에 마우스가 이동하면서 각 미션을 수행
+- click_bot.py: enter를 클릭할 때 마다 화면 내에 마우스가 이동하면서 각 미션을 수행
   (움직일 좌표를 업데이트해야 함.)
 
 
 3. 파이썬 파일 실행 방법
 ```
 (base)PS C:\user\경로>python click.py
-(base)PS C:\user\경로>python bot.py
+(base)PS C:\user\경로>python click_bot.py
 ```
 
 
