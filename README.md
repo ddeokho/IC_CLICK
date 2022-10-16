@@ -64,5 +64,11 @@ pip install 모듈명
   
  
  ![image](https://user-images.githubusercontent.com/20199818/195030343-91f3768e-f0f5-4fae-b57d-2952df23af32.png)
+ 
+ 
+ 5. 터미널 실행 강제종료 방법
+```
+Ctrl+c 
+```
 
 
